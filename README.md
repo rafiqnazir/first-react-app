@@ -30,3 +30,6 @@ Header.propTypes = {
 <Header title={"My header"},is_admin={false} />
 ```
 - if proptypes are not matching then the program will still work, but we will get warning in console. This helps indebugging
+
+#### Important Hooks
+- `useNavigate `, `useParams`
